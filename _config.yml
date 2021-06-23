@@ -1,3 +1,4 @@
 title: "ah-its-andy"
 remote_theme: pmarsceill/just-the-docs
-search_enabled: false
+color_scheme: light
+search_enabled: true
